@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Brahim Bohania 👋</h1>
+<h1 align="center">Hi there, I'm Brahim Bouhania 👋</h1>
 
 <h3 align="center">Multi-Skilled Technician | Electrical & IT Developer ⚡💻</h3>
 
@@ -44,13 +44,11 @@ Welcome to my GitHub! I am a **Multi-Skilled Technician** connecting hands-on ph
 
 ### ⚙️ GitHub Stats
 
-> **Note:** Replace `YOUR_GITHUB_USERNAME` in the image links below with your actual GitHub username to see your real stats!
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Brahim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrahimBouhania-DZ&show_icons=true&theme=radical&hide_border=true" alt="Brahim's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="Brahim's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrahimBouhania-DZ&theme=radical&hide_border=true" alt="Brahim's GitHub Streak" />
 </p>
 
 ---
