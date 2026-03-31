@@ -24,6 +24,16 @@ I am a **Multi-Skilled Technician** who bridges the gap between software logic a
 
 ---
 
+### 🌟 **Featured Projects (مشاريعي)**
+
+| **Project (المشروع)** | **Description (الوصف)** | **Live Link (الرابط)** |
+| :--- | :--- | :--- |
+| **👨‍💻 My Portfolio** | موقعي الشخصي والمهني (كل شيء عني، مهاراتي، وخدماتي) | [🔗 Visit Portfolio](https://brahimbouhania.netlify.app/) |
+| **🤖 Professional Prompt** | منصة احترافية لإدارة وتوليد الأوامر الذكية (Prompts) للذكاء الاصطناعي | [🔗 Visit App](https://professional-prompt.netlify.app/) |
+| **🎓 CompLearn** | منصة وتطبيق ويب تعليمي تفاعلي | [🔗 Visit App](https://complearn.netlify.app/) |
+
+---
+
 ### 💻 **Extended Programming Stack**
 
 | **Category** | **Skills & Technologies** |
